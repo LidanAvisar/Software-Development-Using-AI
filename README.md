@@ -1,8 +1,7 @@
 # Legit Hav Course Overview
 
 ## Introduction
-This course introduces advanced AI methodologies and software tools aimed at improving software development processes. We focus on code quality, testing efficiency, and seamless AI integration.
-
+The course delves into AI methodologies, cutting-edge software tools, and cloud computing services, aimed at enhancing the software development process. focusing on optimizing code quality, testing efficiency, and integrating AI platforms.
 ## Projects and Exercises
 
 ### Project 1: AI-Enhanced Code Development
