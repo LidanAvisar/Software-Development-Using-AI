@@ -1,0 +1,17 @@
+{
+    "name": "Winter Theme",
+
+    "colors": {
+        "activityBar.background": "#357ABD",
+        "activityBar.foreground": "#FFFFFF",
+        "activityBar.inactiveForeground": "#FFFFFF99",
+        "activityBar.activeBorder": "#FFFFFF33",
+        "activityBar.border": "#357ABD",
+        "activityBarBadge.background": "#FFFFFF",
+        "activityBarBadge.foreground": "#357ABD",
+        "editor.background": "#FFFFFF",
+        "editor.foreground": "#000000",
+        "editor.lineHighlightBackground": "#B0E0E6",
+        "editorCursor.foreground": "#357ABD"
+    }
+}

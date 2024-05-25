@@ -1,0 +1,11 @@
+{
+    "name": "Spring Theme",
+    "colors": {
+        "activityBar.background": "#4CAF50",
+        "activityBar.foreground": "#FFFFFF",
+        "editor.background": "#FFFFFF",
+        "editor.foreground": "#000000",
+        "editorCursor.foreground": "#4CAF50",
+        "editor.lineHighlightBackground": "#FFD700"
+    }
+}

@@ -1,0 +1,67 @@
+{
+  "name": "season-theme",
+  "displayName": "season_theme",
+  "description": "season_theme extension",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/LidanAvisar/seasonal-themes"
+  },
+  "categories": [
+    "Other"
+  ],
+  "activationEvents": [],
+  "main": "./out/extension.js",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Winter Theme",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/winter-theme.json"
+      },
+      {
+        "label": "Spring Theme",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/spring-theme.json"
+      },
+      {
+        "label": "Autumn Theme",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/autumn-theme.json"
+      },
+      {
+        "label": "Summer Theme",
+        "uiTheme": "vs-dark",
+        "path": "./src/themes/summer-theme.json"
+      }
+    ],
+    "commands": [
+      {
+        "command": "seasonal-themes",
+        "title": "Season-Theme"
+      }
+    ]
+  },
+  "scripts": {
+    "vscode:prepublish": "npm run compile",
+    "compile": "tsc -p ./",
+    "watch": "tsc -watch -p ./",
+    "pretest": "npm run compile && npm run lint",
+    "lint": "eslint src --ext ts",
+    "test": "vscode-test"
+  },
+  "devDependencies": {
+    "@types/mocha": "^10.0.6",
+    "@types/node": "18.x",
+    "@types/vscode": "^1.85.0",
+    "@typescript-eslint/eslint-plugin": "^6.15.0",
+    "@typescript-eslint/parser": "^6.15.0",
+    "@vscode/test-cli": "^0.0.4",
+    "@vscode/test-electron": "^2.3.8",
+    "eslint": "^8.56.0",
+    "typescript": "^5.3.3"
+  }
+}

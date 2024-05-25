@@ -1,0 +1,11 @@
+{
+    "name": "Summer Theme",
+    "colors": {
+        "activityBar.background": "#FFA500",
+        "activityBar.foreground": "#FFFFFF",
+        "editor.background": "#87CEEB",
+        "editor.foreground": "#000000",
+        "editorCursor.foreground": "#FFA500",
+        "editor.lineHighlightBackground": "#FFFF00"
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "name": "Autumn Theme",
+    "colors": {
+        "activityBar.background": "#FF5733",
+        "activityBar.foreground": "#FFFFFF",
+        "editor.background": "#F0A830",
+        "editor.foreground": "#000000",
+        "editorCursor.foreground": "#FF5733",
+        "editor.lineHighlightBackground": "#FFD700"
+    }
+}

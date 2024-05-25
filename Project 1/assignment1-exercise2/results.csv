@@ -1,0 +1,87 @@
+Question,Model,Answer,Time (ms),Correctness
+Who was the first President of the United States?,orca-mini-3b-gguf2-q4_0.gguf,"
+George Washington was the first President of the United States.",1133,0.50
+Who was the first President of the United States?,gpt4all-falcon-q4_0.gguf,"
+The first President of the United States was George Washington.",1991,0.95
+What year did the Titanic sink?,orca-mini-3b-gguf2-q4_0.gguf,"
+The Titanic sank in 1912.",978,0.70
+What year did the Titanic sink?,gpt4all-falcon-q4_0.gguf,"
+The Titanic sank in 1912.",1274,0.80
+In what year did the Berlin Wall fall?,orca-mini-3b-gguf2-q4_0.gguf,"
+The Berlin Wall fell in 1989.",978,0.75
+In what year did the Berlin Wall fall?,gpt4all-falcon-q4_0.gguf,"
+The Berlin Wall fell on November 9, 1989.",2112,0.97
+Who discovered penicillin?,orca-mini-3b-gguf2-q4_0.gguf,"
+What is the history of penicillin?
+How did Alexander Fleming discover penicillin?",1283,0.95
+Who discovered penicillin?,gpt4all-falcon-q4_0.gguf,"
+Alexander Fleming discovered penicillin in 1928.",1429,0.50
+What is the longest river in the world?,orca-mini-3b-gguf2-q4_0.gguf,"
+The Nile River is considered to be the longest river in the world. It stretches over 4,135 miles (6,720 kilometers) through eleven countries in northeastern Africa, including Egypt, Sudan, and Ethiopia.",2554,0.98
+What is the longest river in the world?,gpt4all-falcon-q4_0.gguf,"
+The longest river in the world is the Nile River, which spans 4,135 miles from its source in Burundi to its mouth in Egypt.",3371,0.97
+Which is the smallest country by area?,orca-mini-3b-gguf2-q4_0.gguf,"
+Which of these countries has the largest land area?",996,0.95
+Which is the smallest country by area?,gpt4all-falcon-q4_0.gguf,"
+The smallest country by area is Vatican City, with an area of 0.17 square kilometers.",2356,0.89
+Name the largest desert in the world.,orca-mini-3b-gguf2-q4_0.gguf,"
+(B) Sahara Desert
+(C) Gobi Desert
+(D) Kalahari Desert",1296,0.00
+Name the largest desert in the world.,gpt4all-falcon-q4_0.gguf,"
+The largest desert in the world is the Antarctic Ice Sheet, which covers approximately 5.4 million square miles.",2644,0.98
+What is the capital of Australia?,orca-mini-3b-gguf2-q4_0.gguf,"
+What is the capital of Australia?",696,0.95
+What is the capital of Australia?,gpt4all-falcon-q4_0.gguf,"
+The capital of Australia is Canberra.",1187,0.98
+What is the national flower of Japan?,orca-mini-3b-gguf2-q4_0.gguf,"
+The national flower of Japan is the cherry blossom tree.",963,1.00
+What is the national flower of Japan?,gpt4all-falcon-q4_0.gguf,"
+The national flower of Japan is the cherry blossom, or sakura.",1824,1.00
+What is the chemical symbol for gold?,orca-mini-3b-gguf2-q4_0.gguf,"
+Gold has a chemical symbol of Au.",771,0.99
+What is the chemical symbol for gold?,gpt4all-falcon-q4_0.gguf,"
+The chemical symbol for gold is Au.",1338,1.00
+How many planets are in our Solar System?,orca-mini-3b-gguf2-q4_0.gguf,"
+There are eight planets in our solar system. Their names, along with the dates of their discoveries, are Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus and Neptune.",2247,0.99
+How many planets are in our Solar System?,gpt4all-falcon-q4_0.gguf,"
+As of 2021, there are eight planets in our Solar System: Mercury, Venus, Earth, Mars, Jupiter, Saturn, Uranus, and Neptune.",3613,0.95
+What planet is known as the Red Planet?,orca-mini-3b-gguf2-q4_0.gguf,"
+What is the name of the largest planet in our solar system?",1079,0.50
+What planet is known as the Red Planet?,gpt4all-falcon-q4_0.gguf,"
+Mars.",1098,0.95
+How many bones are in the adult human body?,orca-mini-3b-gguf2-q4_0.gguf,"
+The adult human body contains 206 bones.",1065,1.00
+How many bones are in the adult human body?,gpt4all-falcon-q4_0.gguf,"
+The adult human body has 206 bones.",1631,1.00
+Who wrote 'Romeo and Juliet'?,orca-mini-3b-gguf2-q4_0.gguf,"
+What is the capital of France?",809,0.50
+Who wrote 'Romeo and Juliet'?,gpt4all-falcon-q4_0.gguf,"
+William Shakespeare.",1163,1.00
+Who painted the Mona Lisa?,orca-mini-3b-gguf2-q4_0.gguf,"
+The Mona Lisa was painted by Leonardo da Vinci, an Italian artist who lived in the 16th century.",1431,0.95
+Who painted the Mona Lisa?,gpt4all-falcon-q4_0.gguf,"
+Leonardo da Vinci painted the Mona Lisa.",1452,0.99
+Name the author of '1984' and 'Animal Farm'.,orca-mini-3b-gguf2-q4_0.gguf,"
+George Orwell is the author of 1984 and Animal Farm.",1340,1.00
+Name the author of '1984' and 'Animal Farm'.,gpt4all-falcon-q4_0.gguf,"
+George Orwell",1114,1.00
+Who directed the movie 'Jaws'?,orca-mini-3b-gguf2-q4_0.gguf,,580,0.00
+Who directed the movie 'Jaws'?,gpt4all-falcon-q4_0.gguf,"
+Steven Spielberg directed the movie 'Jaws'.",1775,0.95
+What year did the first episode of 'Game of Thrones' air?,orca-mini-3b-gguf2-q4_0.gguf,"
+The first episode of ""Game of Thrones"" aired on April 17, 2011.",1439,1.00
+What year did the first episode of 'Game of Thrones' air?,gpt4all-falcon-q4_0.gguf,"
+The first episode of Game of Thrones aired in April 2011.",2074,0.95
+Who won the FIFA World Cup in 2014?,orca-mini-3b-gguf2-q4_0.gguf,"
+The FIFA World Cup in 2014 was won by Germany.",1194,1.00
+Who won the FIFA World Cup in 2014?,gpt4all-falcon-q4_0.gguf,"
+Germany won the FIFA World Cup in 2014.",1792,0.95
+Name the Beatles' debut album.,orca-mini-3b-gguf2-q4_0.gguf,"
+(B) Please Please Me",626,1.00
+Name the Beatles' debut album.,gpt4all-falcon-q4_0.gguf,"
+Please provide a hint: It was released in 1963.",1641,0.75
+What is the highest-grossing film of all time?,orca-mini-3b-gguf2-q4_0.gguf,"
+The highest-grossing film of all time is ""Avatar"" directed by James Cameron. It was released in 2009 and grossed over $2.7 billion worldwide.",2245,0.63
+What is the highest-grossing film of all time?,gpt4all-falcon-q4_0.gguf,"
+The highest-grossing film of all time is Avatar, which grossed over $2.7 billion worldwide.",2961,0.50
